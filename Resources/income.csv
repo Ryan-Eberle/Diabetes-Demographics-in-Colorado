@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿OBJECTID,FIPS,Tract_Name,Tract_FIPS,County,Population_Total,Population_Density_PerLandSquareMile,Percent_Poverty_AllPeople_Income_Below_Pov_Level,Poverty_Median_Household_Income,Poverty_Mean_Household_Income,Poverty_Per_Capita_Income
 1,8043979000,"Census Tract 9790, Fremont County, Colorado",8043979000,FREMONT,3471,3.4,9.7,49483,61677,29749
 2,8045951600,"Census Tract 9516, Garfield County, Colorado",8045951600,GARFIELD,3656,6.4,14.5,59154,82512,32362
@@ -1242,7 +1241,7 @@
 1247,8005080400,"Census Tract 804, Arapahoe County, Colorado",8005080400,ARAPAHOE,5101,5484.9,6.5,63679,77527,32325
 1248,8005080800,"Census Tract 808, Arapahoe County, Colorado",8005080800,ARAPAHOE,3463,9894.3,21,49083,55969,18646
 1249,8005080900,"Census Tract 809, Arapahoe County, Colorado",8005080900,ARAPAHOE,4763,7327.7,20.2,59929,70827,20977
-=======
+=======,,,,,,,,,,
 ﻿OBJECTID,FIPS,Tract_Name,Tract_FIPS,County,Population_Total,Population_Density_PerLandSquareMile,Percent_Poverty_AllPeople_Income_Below_Pov_Level,Poverty_Median_Household_Income,Poverty_Mean_Household_Income,Poverty_Per_Capita_Income
 1,8043979000,"Census Tract 9790, Fremont County, Colorado",8043979000,FREMONT,3471,3.4,9.7,49483,61677,29749
 2,8045951600,"Census Tract 9516, Garfield County, Colorado",8045951600,GARFIELD,3656,6.4,14.5,59154,82512,32362
@@ -2486,4 +2485,4 @@
 1247,8005080400,"Census Tract 804, Arapahoe County, Colorado",8005080400,ARAPAHOE,5101,5484.9,6.5,63679,77527,32325
 1248,8005080800,"Census Tract 808, Arapahoe County, Colorado",8005080800,ARAPAHOE,3463,9894.3,21,49083,55969,18646
 1249,8005080900,"Census Tract 809, Arapahoe County, Colorado",8005080900,ARAPAHOE,4763,7327.7,20.2,59929,70827,20977
->>>>>>> 0a2b882317997d5b38ac99aaa7da940b0c614f79
+>>>>>>> 0a2b882317997d5b38ac99aaa7da940b0c614f79,,,,,,,,,,
