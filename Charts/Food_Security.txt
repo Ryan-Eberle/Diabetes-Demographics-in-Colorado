@@ -1,0 +1,19 @@
+There are 5395805 citizens within the state of Colorado.
+There are 1228 census tracts in the state of Colorado.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+Of those 1228 census tracts, 185 are designated LILA 1 and 10.
+There are 795560 people living in LILA 1 and 10 tracts in Colorado.
+LILA 1 & 10 census tracts have a 8.54 average diabetes diagnosis percentage.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+Of those 1228 census tracts, 395 are designated LILA Half and 10.
+There are 1694377 people living in LILA half and 10 tracts in Colorado.
+LILA Half & 10 census tracts have a 7.84 average diabetes diagnosis percentage.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+Of those 1228 census tracts, 161 are designated LILA 1 and 20.
+There are 725779 people living in LILA 1 and 20 tracts in Colorado.
+LILA 1 & 20 census tracts have a 8.24 average diabetes diagnosis percentage.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+Of those 1228 census tracts, 833 do not contain a LILA designation.
+There are 3701428 people living in non-LILA designated tracts in Colorado.
+Census Tracts without LILA designation have a 6.63 average diabetes diagnosis percentage.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
