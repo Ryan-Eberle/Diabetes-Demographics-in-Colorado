@@ -12,7 +12,7 @@ By visualizing the demographics of Colorado along age, income, food security, an
 
 # Data
 
-Data Sources: USDA Food Environment Atlas Data for Colorado Census Tracts (2017), Diabetes in Adults - CDPHE Community Level Estimates (Census Tracts) (2014-2017),  Diabetes Hospitalization Rate (Census Tracts) (2013-2017), Income/Poverty (Census Tracts) (2014-2017) , Current Prevalence of Diabetes - Center for Disease Control(2011-2020), 
+Data Sources: USDA Food Environment Atlas Data for Colorado Census Tracts (2017), Diabetes in Adults - CDPHE Community Level Estimates (Census Tracts) (2014-2017),  Diabetes Hospitalization Rate (Census Tracts) (2013-2017), Income/Poverty (Census Tracts) (2014-2017) , Current Prevalence of Diabetes - Center for Disease Control(2011-2020), Educational Attainment (Census Tracts) (2013-2017).  All resources were accessed from CDPHE Open Data:  https://data-cdphe.opendata.arcgis.com/
 
 Using the above sources, the data will be visualized across multiple charting methods. 
 
